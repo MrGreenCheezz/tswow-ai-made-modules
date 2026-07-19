@@ -1,0 +1,20 @@
+# TSWoW-generated files
+**/build/
+**/.vscode/
+**/node_modules/
+**/global.d.ts
+**/tsconfig.json
+**/log.txt
+**/*.tsbuildinfo
+**/*.off
+
+# Authoring files that TSWoW does not package
+modules/*/assets/**/*.blend
+modules/*/assets/**/*.json
+modules/*/assets/**/*.png
+modules/*/assets/**/*.psd
+*.exe
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
